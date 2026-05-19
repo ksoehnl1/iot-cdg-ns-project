@@ -1,0 +1,15 @@
+held_out_device,held_out_category,behavioral,full,no_id
+aeotec smart home hub,Hub,0.8384,0.7932,0.724
+amazon echo dot 1,Audio,0.8767,0.9999,0.8911
+amazon echo dot 2,Audio,0.9646,0.9999,0.9827
+amazon echo show,Audio,0.944,0.9748,0.8151
+amazon echo studio,Audio,0.9784,0.9868,0.906
+arlo q indoor camera,Camera,0.0497,0.0066,0.0127
+google nest mini speaker,Audio,0.3902,0.7456,0.7807
+harman kardon (ampak technology),Audio,0.7916,0.9946,0.8683
+home eye camera,Camera,0.1861,0.7488,0.1639
+nest indoor camera,Camera,0.0021,0.0072,0.0042
+philips hue bridge,Hub_Lighting,0.0,0.0,0.0
+smartthings hub,Hub,0.878,0.997,0.8781
+wyze camera,Camera,0.0336,0.0045,0.0007
+yi indoor 2 camera,Camera,0.0263,0.0,0.0004

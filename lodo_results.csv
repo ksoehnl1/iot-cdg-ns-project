@@ -1,0 +1,43 @@
+feature_set,held_out_device,held_out_category,test_rows,f1_macro,accuracy,dummy_f1,dummy_acc
+full,aeotec smart home hub,Hub,10000,0.2212,0.7932,0.0346,0.0743
+full,amazon echo dot 1,Audio,10000,0.5,0.9999,0.1374,0.3788
+full,amazon echo dot 2,Audio,10000,0.5,0.9999,0.1374,0.3788
+full,amazon echo show,Audio,10000,0.4936,0.9748,0.1374,0.3788
+full,amazon echo studio,Audio,10000,0.4967,0.9868,0.1374,0.3788
+full,arlo q indoor camera,Camera,10000,0.0044,0.0066,0.119,0.3125
+full,google nest mini speaker,Audio,10000,0.2136,0.7456,0.1374,0.3788
+full,harman kardon (ampak technology),Audio,10000,0.4986,0.9946,0.1374,0.3788
+full,home eye camera,Camera,10000,0.2855,0.7488,0.119,0.3125
+full,nest indoor camera,Camera,10000,0.0071,0.0072,0.119,0.3125
+full,philips hue bridge,Hub_Lighting,10000,0.0,0.0,0.0,0.0
+full,smartthings hub,Hub,10000,0.3328,0.997,0.0346,0.0743
+full,wyze camera,Camera,10000,0.0022,0.0045,0.119,0.3125
+full,yi indoor 2 camera,Camera,10000,0.0,0.0,0.119,0.3125
+no_id,aeotec smart home hub,Hub,10000,0.28,0.724,0.0346,0.0743
+no_id,amazon echo dot 1,Audio,10000,0.3141,0.8911,0.1374,0.3788
+no_id,amazon echo dot 2,Audio,10000,0.3304,0.9827,0.1374,0.3788
+no_id,amazon echo show,Audio,10000,0.2994,0.8151,0.1374,0.3788
+no_id,amazon echo studio,Audio,10000,0.3169,0.906,0.1374,0.3788
+no_id,arlo q indoor camera,Camera,10000,0.0084,0.0127,0.119,0.3125
+no_id,google nest mini speaker,Audio,10000,0.2192,0.7807,0.1374,0.3788
+no_id,harman kardon (ampak technology),Audio,10000,0.3098,0.8683,0.1374,0.3788
+no_id,home eye camera,Camera,10000,0.0939,0.1639,0.119,0.3125
+no_id,nest indoor camera,Camera,10000,0.0028,0.0042,0.119,0.3125
+no_id,philips hue bridge,Hub_Lighting,10000,0.0,0.0,0.0,0.0
+no_id,smartthings hub,Hub,10000,0.3117,0.8781,0.0346,0.0743
+no_id,wyze camera,Camera,10000,0.0005,0.0007,0.119,0.3125
+no_id,yi indoor 2 camera,Camera,10000,0.0003,0.0004,0.119,0.3125
+behavioral,aeotec smart home hub,Hub,10000,0.304,0.8384,0.0346,0.0743
+behavioral,amazon echo dot 1,Audio,10000,0.2336,0.8767,0.1374,0.3788
+behavioral,amazon echo dot 2,Audio,10000,0.2455,0.9646,0.1374,0.3788
+behavioral,amazon echo show,Audio,10000,0.2428,0.944,0.1374,0.3788
+behavioral,amazon echo studio,Audio,10000,0.3297,0.9784,0.1374,0.3788
+behavioral,arlo q indoor camera,Camera,10000,0.0316,0.0497,0.119,0.3125
+behavioral,google nest mini speaker,Audio,10000,0.1403,0.3902,0.1374,0.3788
+behavioral,harman kardon (ampak technology),Audio,10000,0.2209,0.7916,0.1374,0.3788
+behavioral,home eye camera,Camera,10000,0.1046,0.1861,0.119,0.3125
+behavioral,nest indoor camera,Camera,10000,0.0014,0.0021,0.119,0.3125
+behavioral,philips hue bridge,Hub_Lighting,10000,0.0,0.0,0.0,0.0
+behavioral,smartthings hub,Hub,10000,0.3117,0.878,0.0346,0.0743
+behavioral,wyze camera,Camera,10000,0.0163,0.0336,0.119,0.3125
+behavioral,yi indoor 2 camera,Camera,10000,0.0171,0.0263,0.119,0.3125
