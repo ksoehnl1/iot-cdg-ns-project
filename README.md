@@ -42,6 +42,8 @@ My own data was captured using the equipment in Dr. Roberto Yus' DAMS lab.
 
 The PCAPs are not available (private lab data), but I have supplied the CSVs from the converted PCAP files in `DAMS-IoT-2026/`.
 
+If you do end up using the DAMS lab CSVs, make sure to join the split CSVs with the auxilary file `DAMS-IoT-2026/join.py`.
+
 ## Feature ablation sets
 
 | Set | Description | Features |
